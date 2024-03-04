@@ -1,17 +1,17 @@
 {
-  "name": "NTB-exchange-v.01",
+  "name": "ntb-exchange-v01",
   "version": "1.0.0",
-  "description": "Open an issue or a pull request NTB module",
+  "description": "Open an issue or a pull request ntb module",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kushin101094/NTB-exchange-v.01.git"
+    "url": "https://github.com/kushin101094/ntb-exchange-v01.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "core-NTB",
+  "author": "core-ntb",
   "license": "MIT",
   "dependencies": {
     "rewiki-exchange": "0.1.0",

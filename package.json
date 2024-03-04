@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/luonghieu184/rewikiex-module-1.git"
+    "url": "https://github.com/kushin101094/NTB-exchange-v.01.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
